@@ -1,0 +1,2 @@
+var addTwoNumber=function(e,t){return e+t},multiplyTwoNumber=function(e,t){return e*t},subtractTwoNumber=function(e,t){return e-t},result1=addTwoNumber(5,3),result2=multiplyTwoNumber(5,3),result3=subtractTwoNumber(5,3);document.getElementById("result1").innerText=result1,document.getElementById("result2").innerText=result2,document.getElementById("result3").innerText=result3;
+//# sourceMappingURL=app.js.map

@@ -1,0 +1,15 @@
+{
+  "name": "gulp-app-demo",
+  "version": "0.0.1",
+  "description": "Gulp SourceMap Demo",
+  "scripts": {
+    "startGulp": "gulp"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.1"
+  }
+}
